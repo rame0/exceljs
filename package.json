@@ -1,16 +1,16 @@
 {
-  "name": "@zlooun/exceljs",
+  "name": "@niftylearning/exceljs",
   "version": "1.0.3",
   "description": "Fixes the problem with writing a file using streams and not using RAM based on 'exeljs'",
   "private": false,
   "license": "MIT",
   "author": {
-    "name": "Ivan Shabanov",
-    "email": "zlooooun@yandex.ru"
+    "name": "Nifty Learning",
+    "email": "niftylas@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zlooun/exceljs.git"
+    "url": "https://github.com/niftylearning/exceljs.git"
   },
   "engines": {
     "node": ">=8.3.0"

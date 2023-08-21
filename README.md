@@ -7,7 +7,7 @@ It solves the problem of writing large exel files
 # Installation
 
 ```shell
-npm install @zlooun/exceljs
+npm install @niftylearning/exceljs
 ```
 
 # Whats new!
